@@ -1,0 +1,19 @@
+# Copy relevant entries into your untracked root local.properties.
+# Android Studio can configure sdk.dir for your installation.
+# sdk.dir=C:/Users/YOUR_USER/AppData/Local/Android/Sdk
+
+# Your own Telegram application credentials; never commit actual values.
+TELEGRAM_API_ID=0
+TELEGRAM_API_HASH=
+
+# Existing analytics configuration. Verify missing-backend behavior before use.
+# Values embedded in BuildConfig are recoverable from the APK.
+# Do not use a privileged production database token in a distributed client.
+TURSO_URL=
+TURSO_TOKEN=
+
+# Optional release signing; unnecessary for debug builds.
+# signing.keystore.path=
+# signing.keystore.password=
+# signing.key.alias=
+# signing.key.password=
